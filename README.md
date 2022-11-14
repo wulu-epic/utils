@@ -122,7 +122,8 @@ Console.WriteLine($"Plain text: {lol}, Encoded: {encoded} Decoded: {decoded}");
 ```js
 Plain text: hi mom, Encoded: aGkgbW9t Decoded: hi mom
 ```
-
+<br />
+```
 ### Bunch of other shit I havent documentated
 * MD5 Encryption
 * Current Unix Time
@@ -135,3 +136,4 @@ Plain text: hi mom, Encoded: aGkgbW9t Decoded: hi mom
 * Other types of hash encryption
 * More random string options
 * Advanced Key Check
+```
