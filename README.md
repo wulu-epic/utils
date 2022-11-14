@@ -89,7 +89,7 @@ Console.WriteLine(result);
 ?a = any
 ```
 
-## To FORM DATA
+## To Form Data
 
 ```cs
 var dict = new Dictionary<string, object>
@@ -123,4 +123,15 @@ Console.WriteLine($"Plain text: {lol}, Encoded: {encoded} Decoded: {decoded}");
 Plain text: hi mom, Encoded: aGkgbW9t Decoded: hi mom
 ```
 
-# Bunch of other shit I havent documentated or added
+### Bunch of other shit I havent documentated
+* MD5 Encryption
+* Current Unix Time
+* UUID Generation
+* String Shuffling
+
+### Things I will add sooner or never
+* JSON recursion finder
+* String truncuation
+* Other types of hash encryption
+* More random string options
+* Advanced Key Check
