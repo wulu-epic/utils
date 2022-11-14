@@ -122,3 +122,5 @@ Console.WriteLine($"Plain text: {lol}, Encoded: {encoded} Decoded: {decoded}");
 ```js
 Plain text: hi mom, Encoded: aGkgbW9t Decoded: hi mom
 ```
+
+# Bunch of other shit I havent documentated or added
