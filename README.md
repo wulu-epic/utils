@@ -1,4 +1,4 @@
-# utils - a horrible attempt at copying OpenBullets functions
+# utils.cs - An attempt at copying OpenBullet's functionality
 
 # Getting started
 
